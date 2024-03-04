@@ -9,6 +9,9 @@ This repository provides the final code and data files for our comprehensive inv
 Here is a brief overview of the workflow of this model.
 ![alt text](Flow.png)
 
+## Loss Function
+![alt text](Loss Function.png)
+
 ## Files
 
 ### RCode_FinalCode
