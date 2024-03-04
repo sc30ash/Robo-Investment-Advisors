@@ -6,6 +6,9 @@
 
 This repository provides the final code and data files for our comprehensive investment management model. The project encompasses three main modules: risk factor and interest rate prediction, stock classification and forecasting, and the final example (RCode_FinalCode) demonstrating the complete model's functionality. Additionally, exploratory data analysis (EDA) code and data files, as well as individual model files, are included for reference and transparency.
 
+Here is a brief overview of the workflow of this model.
+![alt text](http://url/to/img.png)
+
 ## Files
 
 ### RCode_FinalCode
