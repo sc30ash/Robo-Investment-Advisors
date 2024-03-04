@@ -10,7 +10,7 @@ Here is a brief overview of the workflow of this model.
 ![alt text](Flow.png)
 
 ## Loss Function
-![alt text](Loss Function.png)
+![alt text](https://github.com/sc30ash/Robo-Investment-Advisors/blob/f0cf6aa81bbebe7e2fec1dd476ba9fd388c36aeb/Loss%20Function.png)
 
 ## Files
 
